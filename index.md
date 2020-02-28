@@ -9,9 +9,9 @@ Here are some links with useful information on the covid-19 virus (Coronavirus) 
 Summarising those:
 - Spread by droplets from coughing and sneezing.
 - Symptoms are like the flu (coughing, sneezing), and it can take 2-10 days between being exposed and having symptoms.
-- If you have difficulty breathing, get medical help (worst case: call 111). That's a symptom of pneumonia.
+- If you have difficulty breathing, phone for medical help (call your GP, or call 111 if you need help urgently). That's a symptom of pneumonia.
 - If you're sick, stay at home. Cover your sneezes with disposable tissues, wash your hands. Read [this](https://www.health.govt.nz/our-work/diseases-and-conditions/covid-19-novel-coronavirus/covid-19-novel-coronavirus-health-advice-general-public/caring-yourself-and-others-who-have-or-may-have-covid-19-home).
 - There's no vaccine.
-- There are no cases in NZ, so relax.
-- There will probably eventually be some, because of people travelling into the country. But still relax, because there's nothing you can do about it.
+- There is one case in NZ.
+- There will probably eventually be more. But still relax, because (a) most people get mild symptoms, and (b) there's nothing you can do about other people catching it except to stay home if you yourself have it.
 - Directly flights between NZ and China are suspended temporarily, to reduce the risk of infected people arriving.
