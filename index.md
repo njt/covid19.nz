@@ -5,6 +5,7 @@ Here are some links with useful information on the covid-19 virus (Coronavirus) 
 - [Ministry of Health FAQ](https://www.health.govt.nz/our-work/diseases-and-conditions/covid-19-novel-coronavirus/covid-19-novel-coronavirus-health-advice-general-public/covid-19-novel-coronavirus-questions-and-answers)
 - [Ministry of Education pages on Coronavirus/covid-19](http://www.education.govt.nz/school/health-safety-and-wellbeing/student-and-staff-health/novel-coronavirus-2019-ncov/)
 - [Auckland Airport Coronavirus/covid-19 FAQ](https://www.aucklandairport.co.nz/information/novel-coronavirus-frequently-asked-questions)
+- [How to Self-Isolate](https://www.rnz.co.nz/national/programmes/first-up/audio/2018737875/dos-and-don-ts-of-self-isolation-your-questions-answered) (Radio New Zealand)
 
 Summarising those:
 - Spread by droplets from coughing and sneezing.
