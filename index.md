@@ -13,6 +13,8 @@ Summarising those:
 - If you have difficulty breathing, phone for medical help (call your GP, or call 111 if you need help urgently). That's a symptom of pneumonia.
 - If you're sick, stay at home. Cover your sneezes with disposable tissues, wash your hands. Read [this](https://www.health.govt.nz/our-work/diseases-and-conditions/covid-19-novel-coronavirus/covid-19-novel-coronavirus-health-advice-general-public/caring-yourself-and-others-who-have-or-may-have-covid-19-home).
 - There's no vaccine.
-- There is one case in NZ.
-- There will probably eventually be more. But still relax, because (a) most people get mild symptoms, and (b) there's nothing you can do about other people catching it except to stay home if you yourself have it.
-- Directly flights between NZ and China are suspended temporarily, to reduce the risk of infected people arriving.
+- There are eight cases in NZ.
+- There will probably eventually be more. But don't let your anxiety get out of control, because (a) most people get mild symptoms, and (b) there's nothing you can do about other people catching it except to stay home if you yourself have it.
+- International travel is seriously disrupted: if you're arriving from overseas, behave as though you have the virus and self-quarantine.
+- Don't panic-buy supplies.
+- Wash your hands often (soap and water, rub hands together for 30s), don't touch your face.
