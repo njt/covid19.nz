@@ -15,7 +15,7 @@ Summarising those:
 - If you have difficulty breathing, phone for medical help (call your GP, or call 111 if you need help urgently). That's a symptom of pneumonia.
 - If you're sick, stay at home. Cover your sneezes with disposable tissues, wash your hands. Read [this](https://www.health.govt.nz/our-work/diseases-and-conditions/covid-19-novel-coronavirus/covid-19-novel-coronavirus-health-advice-general-public/caring-yourself-and-others-who-have-or-may-have-covid-19-home).
 - There's no vaccine.
-- There are eight cases in NZ.
+- There are multiple cases in NZ.
 - There will probably eventually be more cases. Don't let your anxiety get out of control, because (a) most people get mild symptoms, and (b) if you don't have it then whether other people get it or not is out of your control.
 - International travel is seriously disrupted: if you're arriving from overseas, behave as though you have the virus and self-quarantine.
 - Don't panic-buy supplies. Supermarkets are still open and supply lines still working: shelves are stocked of everything but hand sanitiser ([some of which aren't effective than washing with soap](https://www.weforum.org/agenda/2020/03/coronavirus-soap-covid-19-virus-hygiene/)).
