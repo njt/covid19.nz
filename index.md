@@ -1,4 +1,5 @@
 Here are some links with useful information on the covid-19 virus (Coronavirus) in New Zealand:
+- [Covid19.govt.nz](covid19.govt.nz) Official "all you need to know" site from the NZ government.
 - [What it is, and how to protect yourself](https://www.rnz.co.nz/news/national/410402/coronavirus-what-is-covid-19-and-how-to-protect-yourself-from-the-outbreak) (Radio New Zealand)
 - [Ministry of Health Guidelines to self-quarantining yourself](https://www.health.govt.nz/our-work/diseases-and-conditions/covid-19-novel-coronavirus/covid-19-novel-coronavirus-health-advice-general-public/covid-19-novel-coronavirus-self-isolation) for example, if you're recently returning from a country where it's prevalent.
 - [Ministry of Health Advice for International Travellers](https://www.health.govt.nz/our-work/diseases-and-conditions/covid-19-novel-coronavirus/covid-19-novel-coronavirus-information-specific-audiences/covid-19-novel-coronavirus-advice-travellers)
